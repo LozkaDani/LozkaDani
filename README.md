@@ -1,10 +1,3 @@
-## Hi there 👋
+## Hi!
 
-
-- 🔭 I’m currently working on NI-FI-GA
-- 🌱 I’m currently learning PYTHON AND FIGNYA
-- 👯 I’m looking to collaborate on wh1teheaven
-- 🤔 I’m looking for help with deepseek
-- 😄 Pronouns: daba/eb
-- ⚡ Fun fact: Sosal?
-
+Hello! My name is Danila, my nickname is LozkaDani, I am a novice programmer, and a student of middle school. I'm learning Python.
