@@ -3,7 +3,7 @@
 Hello! My name is Danila, my nickname is LozkaDani, I am a novice programmer, and a student of middle school. I'm learning Python.
 
 
-## I can write simple programs in:
+## I can write simple programs/sites on:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,python)](https://skillicons.dev)
 
@@ -12,4 +12,4 @@ Hello! My name is Danila, my nickname is LozkaDani, I am a novice programmer, an
 
 
 ## My Operating System
-[![os](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev) __Fedora Kde__
+[![os](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) <html><img src="fedora.png" width="50"/></hmtl>
