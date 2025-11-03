@@ -10,3 +10,6 @@ Hello! My name is Danila, my nickname is LozkaDani, I am a novice programmer, an
 ## I want to learn:
 [![Learn](https://skillicons.dev/icons?i=cpp,js)](https://skillincons.dev)
 
+
+## My Operating System
+[![os](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev) __Fedora Kde__
