@@ -12,4 +12,4 @@ Hello! My name is Danila, my nickname is LozkaDani, I am a novice programmer, an
 
 
 ## My Operating System
-[![os](https://skillicons.dev/icons?i=windows)](https://skillicons.dev) <html><img src="fedora.png" width="50"/></hmtl>
+[![os](https://skillicons.dev/icons?i=windows,arch)](https://skillicons.dev)
